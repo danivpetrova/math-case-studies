@@ -6,19 +6,19 @@ The Cessna Citation II flies in the $xyz$-coordinate system. The aircraft starts
 
 ![](math-case-studies/book/figures/case2-1.png)
 
-```{image} ../figures/figures/case2-1.png
+```{image} ../book/MissionLAIKA/img/case2-1.png
 ```
 
 We can approximate its position $\vec x(t)$ after $t$ seconds by 
 $\vec x(t) = \vec{x}_0 + \vec{v}_0 t + \vec a \dfrac{t^2}{2}$.
 
 ![slide2](./figures/case2-2.png)
-```{image} ../figures/figures/case2-2.png
+```{image} ../book/MissionLAIKA/img/case2-2.png
 ```
 
 This means that the trajectory of the airplane lies in the plane spanned by the vectors $\vec v_0$ and $\vec a$.
 
 ![slide3](./figures/case2-3.png)
 
-```{image} ../figures/figures/case2-3.png
+```{image} ../book/MissionLAIKA/img/case2-3.png
 ```
