@@ -1,5 +1,5 @@
 # Mission LAIKA
-
+<img src="../MissionLAIKA/img/intro.png">
 ### Linear Algebra in Kinematics and Aerodynamics. 
 Mission LAIKA is a set of case studies on Linear Algebra in Kinematics and Aerodynamics. 
 In these case studies we explore an airplane taking off and in flight, and study several aspects of its flight, such as vibrations of the wings, using linear algebra.
