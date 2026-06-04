@@ -3,7 +3,7 @@
 _The following can be set as slides in a lecture presentation introducing the definition of a Linear combination._
 
 The Cessna Citation II flies in the $xyz$-coordinate system. The plane starts turning from its current position $\vec x_0$, with velocity $\vec v$ and acceleration $\vec a$. 
-```{image} ...book/figures/case2-1.png
+```{image} .book/figures/case2-1.png
 :name: label
 ```
 !(...book/figures/case2-1.png)
