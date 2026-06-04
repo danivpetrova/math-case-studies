@@ -1,4 +1,4 @@
-# Into the span!
+# Spans and vector equations: Into the span!
 
 _The following can be set as slides in a lecture presentation introducing the definition of a Linear combination._
 
