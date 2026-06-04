@@ -18,3 +18,5 @@ The vector $\vec{v}$ can be written as a linear combination of $\vec{u_1}$ and $
 The vectors $\vec{u_1}$, $\vec{u_2}$ and $\vec{v}$ are called \underline{linearly dependent}.
 
 <img src="../MissionLAIKA/img/case3-3.png">
+
+### Grasple
