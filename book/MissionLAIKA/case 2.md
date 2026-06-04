@@ -4,7 +4,7 @@ _The following can be set as slides in a lecture presentation introducing the de
 
 The Cessna Citation II flies in the $xyz$-coordinate system. The plane starts turning from its current position $\vec x_0$, with velocity $\vec v$ and acceleration $\vec a$. 
 
-![case2-1](book/figures/case2-1.png)
+![slide1](book/figures/case2-1.png)
 
 We can approximate its position $\vec x$ after $t$ seconds by 
 $\vec x = \vec x_0 + \vec v t + \vec a \dfrac{t^2}{2}$.
