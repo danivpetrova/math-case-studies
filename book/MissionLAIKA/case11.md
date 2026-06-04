@@ -14,7 +14,7 @@ When the plane rotates $-30^o$ around the z-axis, the principal axes of the plan
 
 <img src="../MissionLAIKA/img/case11-3.png">
 
-### MCQ 
+### Exercises 
 #### Q1
 When the plane rotates $-30^o$ around the z-axis, the principal axes of the plane form a new basis. The vector $\vec v $ has different coordinates with respect to this new basis. Find the new coordinates of $\vec v$.
 
