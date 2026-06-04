@@ -4,7 +4,7 @@ _The following can be set as slides in a lecture presentation introducing the de
 
 The Cessna Citation II flies in the $xyz$-coordinate system. The aircraft starts turning from its current position $\vec x_0$, with velocity $\vec v_0$ and acceleration $\vec a$
 
-![](math-case-studies/book/figures/case2-1.png)
+![](math-case-studies/book/MissionLAIKA/img/case2-1.png)
 
 ```{image} ../book/MissionLAIKA/img/case2-1.png
 ```
@@ -18,7 +18,7 @@ $\vec x(t) = \vec{x}_0 + \vec{v}_0 t + \vec a \dfrac{t^2}{2}$.
 
 This means that the trajectory of the airplane lies in the plane spanned by the vectors $\vec v_0$ and $\vec a$.
 
-![slide3](./figures/case2-3.png)
+![slide3](./book/MissionLAIKA/img/case2-1.png)
 
 ```{image} ../book/MissionLAIKA/img/case2-3.png
 ```
