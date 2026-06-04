@@ -8,7 +8,7 @@ The Cessna Citation II flies in the $xyz$-coordinate system. The plane starts tu
 ```
 !(.book/figures/case2-1.png)
 
-!(figures/case2-1.png)
+!(.figures/case2-1.png)
 
 
 We can approximate its position $\vec x$ after $t$ seconds by 
