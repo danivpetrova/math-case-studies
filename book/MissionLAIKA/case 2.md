@@ -6,7 +6,7 @@ The Cessna Citation II flies in the $xyz$-coordinate system. The plane starts tu
 ```{image} .book/figures/case2-1.png
 :name: label
 ```
-!(...book/figures/case2-1.png)
+!(.book/figures/case2-1.png)
 
 !(figures/case2-1.png)
 
