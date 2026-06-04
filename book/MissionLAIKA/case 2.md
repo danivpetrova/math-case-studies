@@ -6,7 +6,7 @@ The Cessna Citation II flies in the $xyz$-coordinate system. The aircraft starts
 
 ![](https://github.com/danivpetrova/math-case-studies/edit/main/book/MissionLAIKA/img/case2-1.png)
 :::{figure-md} markdown-fig
-<img src="../book/MissionLAIKA/img/case2-1.png" width="200px">
+<img src="../MissionLAIKA/img/case2-1.png" width="200px">
 
 :::
 <img src="./book/MissionLAIKA/img/case2-1.png">
