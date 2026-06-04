@@ -16,3 +16,5 @@ $\vec x(t) = \vec{x}_0 + \vec{v}_0 t + \vec a \dfrac{t^2}{2}$.
 This means that the trajectory of the airplane lies in the plane spanned by the vectors $\vec v_0$ and $\vec a$.
 
 <img src="../MissionLAIKA/img/case2-3.png">
+
+### Grasple
