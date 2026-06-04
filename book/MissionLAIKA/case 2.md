@@ -13,5 +13,6 @@ $\vec x = \vec x_0 + \vec v t + \vec a \dfrac{t^2}{2}$.
 
 
 This means that the trajectory of the plane lies in the plane spanned by the vectors $\vec v$ and $\vec a$.
+
 ![slide3](./figures/case2-3.png)
 
