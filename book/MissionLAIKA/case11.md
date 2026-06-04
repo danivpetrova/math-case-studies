@@ -18,7 +18,8 @@ When the plane rotates $-30^o$ around the z-axis, the principal axes of the plan
 #### Q1
 When the plane rotates $-30^o$ around the z-axis, the principal axes of the plane form a new basis. The vector $\vec v $ has different coordinates with respect to this new basis. Find the new coordinates of $\vec v$.
 
-$[\mathbf{v}]_{\mathcal{B}_{old}} = \frac{1}{\sqrt{3}} \begin{bmatrix} 1 & 1 & 1 \end{bmatrix}^T$.
+$[\mathbf{v}]_{\mathcal{B}_{old}} = \frac{1}{\sqrt{3}} \begin{bmatrix} 1 & 1 & 1 \end{bmatrix}^T$
+
 What is the new z-coordinate of $\vec v$? 
 
 A) $1$ \
@@ -30,9 +31,10 @@ D) $\cfrac{1}{2\sqrt{3}}$ \
 
 #### Q2
 When the plane $-30^o$ around the z-axis, the principal axes of the plane form a new basis. The vector $\vec v $ has different coordinates with respect to this new basis. Find the new coordinates of $\vec v$. 
-$[\mathbf{v}]_{\mathcal{B}_{old}} = \frac{1}{\sqrt{3}} \begin{bmatrix} 1 & 1 & 1 \end{bmatrix}^T$.
 
-What is the new x-coordinate of $\vec v$? 
+$[\mathbf{v}]_{\mathcal{B}_{old}} = \frac{1}{\sqrt{3}} \begin{bmatrix} 1 & 1 & 1 \end{bmatrix}^T$
+
+What is the new x-coordinate of $\vec v$ ? 
 <img src="../MissionLAIKA/img/case11-4.png">
 
 A) $\cfrac{1}{2}+\cfrac{1}{2\sqrt{3}}$ \
