@@ -11,32 +11,27 @@ For their matrix representations $A_{yaw}(\psi)$, $A_{pitch}(\theta)$ and $A_{ro
 
 In three dimensions, control systems work with the following rotation matrices:
 Roll: \
-$
-R_x(\theta) = \begin{bmatrix}
+$R_x(\theta) = \begin{bmatrix}
 1 & 0 & 0 \\ 0 & \cos(\theta) & -\sin(\theta) \\
-0 & \sin(\theta) & \cos(\theta) \end{bmatrix}
-$
-
+0 & \sin(\theta) & \cos(\theta) \end{bmatrix}$
 
 <img width="604" height="352" alt="image" src="https://github.com/user-attachments/assets/f5b2b674-d16d-485e-9251-b9310c79a88b" />
 
 
 Pitch: \
-$
-R_y(\theta) = \begin{bmatrix}
+$R_y(\theta) = \begin{bmatrix}
 \cos(\theta) & 0 & \sin(\theta) \\ 0 & 1 & 0 \\
-- \sin(\theta) & 0& \cos(\theta) \end{bmatrix}
-$
+- \sin(\theta) & 0& \cos(\theta) \end{bmatrix}$
 
 <img width="625" height="351" alt="image" src="https://github.com/user-attachments/assets/3cad2319-58b0-435a-aa6f-a6dedaceb66b" />
 
 
 Yaw: \
-$
-R_z(\theta) = \begin{bmatrix}
+$R_z(\theta) = \begin{bmatrix}
 \cos(\theta) & -\sin(\theta) & 0 \\ \sin(\theta) & \cos(\theta) & 0\\
-0 & 0 & 1 \end{bmatrix}
-$
+0 & 0 & 1 \end{bmatrix}$
+
+<img width="610" height="352" alt="image" src="https://github.com/user-attachments/assets/416d8eca-644c-4b74-bb5c-74f59eefd88f" />
 
 
 ### Grasple
