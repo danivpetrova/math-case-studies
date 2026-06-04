@@ -3,8 +3,12 @@
 
 Let's say that the direction vector of the airplane is $\vec{x} = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$. 
 After several maneuvers in the air (rotations) it changed. 
+
+
 Let $\sigma_1 (\vec{x})$ denote the yaw, $\sigma_2 (\vec{x})$ the pitch and $\sigma_3 (\vec{x})$ the roll, respectively with angles $\psi$, $\theta$, $\phi$. 
 For their matrix representations $A_{yaw}(\psi)$, $A_{pitch}(\theta)$ and $A_{roll}(\phi)$, see the slides of lecture 4.
+<img src="../MissionLAIKA/img/case7-1.png">
+
 In three dimensions, control systems work with the following rotation matrices:
 Roll: \
 $
@@ -65,5 +69,5 @@ What is $A^{-1}$?
 
 => C
 
-
+<img src="../MissionLAIKA/img/case7-2.png">
 
