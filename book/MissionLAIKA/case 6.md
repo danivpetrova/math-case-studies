@@ -1,4 +1,7 @@
-# Facing wind - II
-## Case on Determinants
+# Determinants: Facing wind - II
+## Mission LAIKA: Facing wind - II
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBQISSp7Zcs?si=92As5stFkP0_sy7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Grasple
