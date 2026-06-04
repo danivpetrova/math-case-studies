@@ -12,7 +12,7 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-    - file: some_content/overview.md
+      - file: some_content/case 1.md
       sections:
       - file: some_content/text_and_code.ipynb
   - caption: Exercises
