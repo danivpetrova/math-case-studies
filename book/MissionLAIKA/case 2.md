@@ -3,11 +3,15 @@
 _The following can be set as slides in a lecture presentation introducing the definition of a Linear combination._
 
 The Cessna Citation II flies in the $xyz$-coordinate system. The plane starts turning from its current position $\vec x_0$, with velocity $\vec v$ and acceleration $\vec a$. 
+
+```{image} .figures/case2-1.png
+:name: label
+```
 !(figures/case2-1.png)
 
 
-We can approximate its position $\vec x$ after $t$ seconds by \vspace{-2mm}
-$ \vec x = \vec x_0 + \vec v t + \vec a \dfrac{t^2}{2} $.
+We can approximate its position $\vec x$ after $t$ seconds by 
+$\vec x = \vec x_0 + \vec v t + \vec a \dfrac{t^2}{2}$.
 
 !(figures/case2-2.png)
 
