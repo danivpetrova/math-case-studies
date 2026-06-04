@@ -1,5 +1,5 @@
-# Are we lost?
-## Solution sets and linear independence
+# Solution sets and linear independence: Are we lost?
+## Mission LAIKA: Are we lost?
 
 _The following can be set as slides in a lecture presentation introducing theorem of linear independence._
 
