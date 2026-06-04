@@ -21,7 +21,7 @@ $R_x(\theta) = \begin{bmatrix}
 Pitch: \
 $R_y(\theta) = \begin{bmatrix}
 \cos(\theta) & 0 & \sin(\theta) \\ 0 & 1 & 0 \\
-- \sin(\theta) & 0& \cos(\theta) \end{bmatrix}$
+-\sin(\theta) & 0& \cos(\theta) \end{bmatrix}$
 
 <img width="625" height="351" alt="image" src="https://github.com/user-attachments/assets/3cad2319-58b0-435a-aa6f-a6dedaceb66b" />
 
@@ -54,13 +54,13 @@ $A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi) \\$
 What is $A^{-1}$?
 
 \begin{enumerate}[label=\color{MOOCblue}{\textbf{\Alph*.}}]
-\item $A^{-1} = A_{yaw}(\psi)A_{pitch}(\theta)A_{roll}(\phi)$
+-  $A^{-1} = A_{yaw}(\psi)A_{pitch}(\theta)A_{roll}(\phi)$
 
-\item $A^{-1} = A_{roll}(-\phi)A_{pitch}(-\theta)A_{yaw}(-\psi)$
+-  $A^{-1} = A_{roll}(-\phi)A_{pitch}(-\theta)A_{yaw}(-\psi)$
 
-\item $A^{-1} = A_{yaw}(-\psi)A_{pitch}(-\theta)A_{roll}(-\phi)$
+-  $A^{-1} = A_{yaw}(-\psi)A_{pitch}(-\theta)A_{roll}(-\phi)$
 
-\item $A^{-1} = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$
+-  $A^{-1} = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$
 
 => C
 
