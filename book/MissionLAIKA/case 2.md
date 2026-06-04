@@ -15,7 +15,7 @@ We can approximate its position $\vec x(t)$ after $t$ seconds by
 $\vec x(t) = \vec{x}_0 + \vec{v}_0 t + \vec a \dfrac{t^2}{2}$.
 
 ![slide2](./figures/case2-2.png)
-```{image} ../book/MissionLAIKA/img/case2-2.png
+```{image} ../MissionLAIKA/img/case2-2.png
 ```
 
 This means that the trajectory of the airplane lies in the plane spanned by the vectors $\vec v_0$ and $\vec a$.
