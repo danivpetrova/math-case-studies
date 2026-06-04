@@ -1,5 +1,5 @@
-# Looking from a different angle
-#### Case on Invertibility of matrices
+# Invertibility of matrices: Looking from a different angle
+#### Mission LAIKA: Looking from a different angle
 
 Let's say that the direction vector of the airplane is $\vec{x} = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$. 
 After several maneuvers in the air (rotations) it changed. 
