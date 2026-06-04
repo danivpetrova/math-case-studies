@@ -1,3 +1,6 @@
-# Some content
+# Mission LAIKA
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mission LAIKA is a set of case studies on Linear Algebra in Kinematics and Aerodynamics. In these case studies we explore an airplane taking off and in flight, and study several aspects of its flight, such as vibrations of the wings, using linear algebra.[
+When presenting this example in your lecture, emphasize the connection between mathematical theory and practical engineering challenges. Encourage students to reflect on how linear algebra helps model and solve these complex problems.
+The case studies are a collection of animations and slides paider with exercises (usually in Grasple, but sometimes as Jupyter notebooks) that match the lessons part of a bachelor mathematics course at the Aerospace Engineering faculty.
+
