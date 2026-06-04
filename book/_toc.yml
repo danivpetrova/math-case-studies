@@ -12,6 +12,9 @@ parts:
     - file: MissionLAIKA/overview.md
       sections:
       - file: MissionLAIKA/text_and_code.ipynb
+    - file: some_content/overview.md
+      sections:
+      - file: some_content/text_and_code.ipynb
   - caption: Exercises
     chapters:
     - file: exercises.md
