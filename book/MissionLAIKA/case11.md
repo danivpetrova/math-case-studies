@@ -2,14 +2,17 @@
 ## Mission LAIKA: Lost connection?
 
 To navigate, the Cessna Citation II needs to communicate with the satellite. The vector $\vec v$ points in the direction of the satellite. 
-
+<img src="../MissionLAIKA/img/case11-1.png">
 
 
 The principal axes of the plane form a basis. The coordinates of $\vec v$ with respect to this basis are equal to $\frac{1}{\sqrt{3}} \begin{bmatrix} 1 & 1 & 1 \end{bmatrix}^T$.
 
+<img src="../MissionLAIKA/img/case11-2.png">
 
 
 When the plane rotates $-30^o$ around the z-axis, the principal axes of the plane form a new basis. The vector $\vec v $ has different coordinates with respect to this new basis. What are the new coordinates of $\vec v$? 
+
+<img src="../MissionLAIKA/img/case11-3.png">
 
 ### MCQ 
 #### Q1
@@ -30,9 +33,7 @@ When the plane $-30^o$ around the z-axis, the principal axes of the plane form a
 $[\mathbf{v}]_{\mathcal{B}_{old}} = \frac{1}{\sqrt{3}} \begin{bmatrix} 1 & 1 & 1 \end{bmatrix}^T$.
 
 What is the new x-coordinate of $\vec v$? 
-
-{img} case11-4
-
+<img src="../MissionLAIKA/img/case11-4.png">
 
 A) $\cfrac{1}{2}+\cfrac{1}{2\sqrt{3}}$ \
 B) $\cfrac{\sqrt{3}}{2} + \cfrac{1}{2}$ \
