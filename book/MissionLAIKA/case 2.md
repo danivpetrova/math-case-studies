@@ -4,7 +4,7 @@ _The following can be set as slides in a lecture presentation introducing the de
 
 The Cessna Citation II flies in the $xyz$-coordinate system. The aircraft starts turning from its current position $\vec x_0$, with velocity $\vec v_0$ and acceleration $\vec a$
 
-![](math-case-studies/book/MissionLAIKA/img/case2-1.png)
+![](https://github.com/danivpetrova/math-case-studies/edit/main/book/MissionLAIKA/img/case2-1.png)
 
 ```{image} (https://github.com/danivpetrova/math-case-studies/edit/main/book/MissionLAIKA/img/case2-1.png
 ```
