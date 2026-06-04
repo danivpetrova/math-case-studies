@@ -51,6 +51,7 @@ When the plane $-30^o$ around the z-axis, the principal axes of the plane form a
 $\vec{v_{old}} = \frac{1}{\sqrt{3}} \begin{bmatrix} 1 & 1 & 1 \end{bmatrix}^T$.
 
 What are the new coordinates of $\vec v$? 
+
 A) $\begin{bmatrix} \frac{1}{\sqrt{3}} & \frac{1}{\sqrt{3}} & \frac{1}{\sqrt{3}} \end{bmatrix}^T$ \
 B) $\begin{bmatrix} \frac{1}{2}+\frac{1}{2\sqrt{3}} & \frac{1}{2} - \frac{1}{2\sqrt{3}} & \frac{1}{\sqrt{3}} \end{bmatrix}^T$ \
 C) $\begin{bmatrix} \frac{1}{2\sqrt{3}} - \frac{1}{2} & \frac{1}{2} & \frac{1}{2\sqrt{3}} + \frac{1}{2} \end{bmatrix}^T$ \
