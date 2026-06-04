@@ -53,10 +53,10 @@ $A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi) \\$
 What is $A^{-1}$?
 
 
-A)  $A^{-1} = A_{yaw}(\psi)A_{pitch}(\theta)A_{roll}(\phi)$
-B)  $A^{-1} = A_{roll}(-\phi)A_{pitch}(-\theta)A_{yaw}(-\psi)$
-C)  $A^{-1} = A_{yaw}(-\psi)A_{pitch}(-\theta)A_{roll}(-\phi)$
-D)  $A^{-1} = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$
+A)  $A^{-1} = A_{yaw}(\psi)A_{pitch}(\theta)A_{roll}(\phi)$ \
+B)  $A^{-1} = A_{roll}(-\phi)A_{pitch}(-\theta)A_{yaw}(-\psi)$ \
+C)  $A^{-1} = A_{yaw}(-\psi)A_{pitch}(-\theta)A_{roll}(-\phi)$ \
+D)  $A^{-1} = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$\ 
 
 => C
 
