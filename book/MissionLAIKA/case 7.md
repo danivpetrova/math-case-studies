@@ -38,9 +38,8 @@ $R_z(\theta) = \begin{bmatrix}
 
 
 
-From the Grasple exercise on Mission LAIKA: Pitch Perfect, remember \\
-that the matrix expression for the combination of all rotations, performed in the order yaw, then pitch, and finally roll, is given by: \\
-$A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi) = \\$
+From the Grasple exercise on Mission LAIKA: Pitch Perfect, remember that the matrix expression for the combination of all rotations, performed in the order yaw, then pitch, and finally roll, is given by: \
+$A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi) =$
 
 \begin{array}{ccc}
 \cos(\theta)\cos(\psi) & -\cos(\theta)\sin(\psi) & \sin(\theta) \\
@@ -53,14 +52,11 @@ $A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi) \\$
 
 What is $A^{-1}$?
 
-\begin{enumerate}[label=\color{MOOCblue}{\textbf{\Alph*.}}]
--  $A^{-1} = A_{yaw}(\psi)A_{pitch}(\theta)A_{roll}(\phi)$
 
--  $A^{-1} = A_{roll}(-\phi)A_{pitch}(-\theta)A_{yaw}(-\psi)$
-
--  $A^{-1} = A_{yaw}(-\psi)A_{pitch}(-\theta)A_{roll}(-\phi)$
-
--  $A^{-1} = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$
+A)  $A^{-1} = A_{yaw}(\psi)A_{pitch}(\theta)A_{roll}(\phi)$
+B)  $A^{-1} = A_{roll}(-\phi)A_{pitch}(-\theta)A_{yaw}(-\psi)$
+C)  $A^{-1} = A_{yaw}(-\psi)A_{pitch}(-\theta)A_{roll}(-\phi)$
+D)  $A^{-1} = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$
 
 => C
 
