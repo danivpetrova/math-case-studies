@@ -13,7 +13,20 @@ parts:
       sections:
       - file: MissionLAIKA/case 1.md
       - file: MissionLAIKA/case 2.md
-      
+      - file: MissionLAIKA/case 3.md
+      - file: MissionLAIKA/case 4.md
+      - file: MissionLAIKA/case 5.md
+      - file: MissionLAIKA/case 6.md
+      - file: MissionLAIKA/case 7.md
+      - file: MissionLAIKA/case 8.md
+      - file: MissionLAIKA/case 9.md
+      - file: MissionLAIKA/case 10.md
+      - file: MissionLAIKA/case 11.md
+      - file: MissionLAIKA/case 12.md
+      - file: MissionLAIKA/case 13.md
+      - file: MissionLAIKA/case 14.md
+      - file: MissionLAIKA/case 15.md
+            
   - caption: Exercises
     chapters:
     - file: exercises.md
