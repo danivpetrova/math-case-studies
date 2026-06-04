@@ -6,6 +6,9 @@ The Cessna Citation II flies in the $xyz$-coordinate system. The aircraft starts
 
 ![](math-case-studies/book/figures/case2-1.png)
 
+```{image} ../figures/figures/case2-1.png
+```
+
 We can approximate its position $\vec x(t)$ after $t$ seconds by 
 $\vec x(t) = \vec{x}_0 + \vec{v}_0 t + \vec a \dfrac{t^2}{2}$.
 
