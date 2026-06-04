@@ -8,13 +8,13 @@ A satellite can change its direction with its thrusters. It wants to avoid the s
 
 
 
-The satellite wants to avoid the space debris. Thrusters are placed in the $\vec u_1$- and $\vec u_2$-direction.\\
+The satellite wants to avoid the space debris. Thrusters are placed in the $\vec u_1$- and $\vec u_2$-direction.\
 Does the satellite need extra thrusters to move in the direction of $\vec{v}$?
 
 <img src="../MissionLAIKA/img/case3-2.png">
 
 
-The vector $\vec{v}$ can be written as a linear combination of $\vec{u_1}$ and $\vec{u_2}$. We do not need extra thrusters.\\
+The vector $\vec{v}$ can be written as a linear combination of $\vec{u_1}$ and $\vec{u_2}$. We do not need extra thrusters.\
 The vectors $\vec{u_1}$, $\vec{u_2}$ and $\vec{v}$ are called \underline{linearly dependent}.
 
 <img src="../MissionLAIKA/img/case3-3.png">
