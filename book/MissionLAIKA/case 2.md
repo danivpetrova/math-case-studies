@@ -6,9 +6,10 @@ The Cessna Citation II flies in the $xyz$-coordinate system. The aircraft starts
 
 ![](https://github.com/danivpetrova/math-case-studies/edit/main/book/MissionLAIKA/img/case2-1.png)
 
-```{image} (https://github.com/danivpetrova/math-case-studies/edit/main/book/MissionLAIKA/img/case2-1.png
-```
+:::{figure-md} markdown-fig
+<img src="../book/MissionLAIKA/img/case2-1.png">
 
+:::
 We can approximate its position $\vec x(t)$ after $t$ seconds by 
 $\vec x(t) = \vec{x}_0 + \vec{v}_0 t + \vec a \dfrac{t^2}{2}$.
 
