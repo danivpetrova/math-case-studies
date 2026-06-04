@@ -32,8 +32,4 @@ $\theta $ & $0.88$ & $1.10$ & $1.42$ & $1.77$ & $2.14$%
 <img scr="../MissionLAIKA/img/case14-3.png">
 
 
-
-
-
-
-## Grasple
+## Python exercise | Jupyter notebook 
