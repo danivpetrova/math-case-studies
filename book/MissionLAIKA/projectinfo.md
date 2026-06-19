@@ -31,7 +31,7 @@ Calvin Rans (Structural Analysis & Design)\
 Joris Melkert\
 
 #### For the support, feedback and collaboration:
-The [https://colab.research.google.com/github/PRIME-TU-Delft/MissionLAIKA/blob/main/PythonExercises/CaseStudy19/CS19.ipynb](PRIME) team
+The [PRIME](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/studeren/prime) team
 
 The Blended Learning team, especially:
 Marvin Soetanto, 
