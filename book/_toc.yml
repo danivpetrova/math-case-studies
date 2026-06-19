@@ -9,24 +9,24 @@ parts:
     style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
-    - file: MissionLAIKA/overview-MissionLAIKA.md
-    - file: MissionLAIKA/projectinfo.md
-      sections:
-      - file: MissionLAIKA/case01.md
-      - file: MissionLAIKA/case02.md
-      - file: MissionLAIKA/case03.md
-      - file: MissionLAIKA/case04.md
-      - file: MissionLAIKA/case05.md
-      - file: MissionLAIKA/case06.md
-      - file: MissionLAIKA/case07.md
-      - file: MissionLAIKA/case08.md
-      - file: MissionLAIKA/case09.md
-      - file: MissionLAIKA/case10.md
-      - file: MissionLAIKA/case11.md
-      - file: MissionLAIKA/case12.md
-      - file: MissionLAIKA/case13.md
-      - file: MissionLAIKA/case14.md
-      - file: MissionLAIKA/case15.md
+   # - file: MissionLAIKA/projectinfo.md
+   # - file: MissionLAIKA/overview-MissionLAIKA.md
+    #   sections:
+   #   - file: MissionLAIKA/case01.md
+    #  - file: MissionLAIKA/case02.md
+     # - file: MissionLAIKA/case03.md
+     # - file: MissionLAIKA/case04.md
+     # - file: MissionLAIKA/case05.md
+     # - file: MissionLAIKA/case06.md
+    #  - file: MissionLAIKA/case07.md
+    #  - file: MissionLAIKA/case08.md
+   #   - file: MissionLAIKA/case09.md
+  #    - file: MissionLAIKA/case10.md
+   #   - file: MissionLAIKA/case11.md
+    #  - file: MissionLAIKA/case12.md
+     # - file: MissionLAIKA/case13.md
+      #- file: MissionLAIKA/case14.md
+      #- file: MissionLAIKA/case15.md
             
   - caption: Exercises
     chapters:
