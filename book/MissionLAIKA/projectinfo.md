@@ -7,7 +7,7 @@ This portfolio is a draft collection of the materials. The portfolio is based on
 
 #### On Cases input, ideas, drafting and formulation, review and recording: 
 Christophe Smet \
-Maarten van Hoven \ 
+Maarten van Hoven \
 Shobhit Jain  \
 Tom Vroegrijk  \
 Valentina Vaniushkina  \
@@ -18,20 +18,21 @@ Jakub Fręchowicz \
 Stella Schultz  \
 Elke Crooijmans  \
 Vera van der Eng  \
-Koen Eggen \
+Koen Eggen 
 
 #### General input, feedback, ideas, suggestions:
 Angelo Cervone (Aerospace Design & Systems Engineering Elements) \
 Carmine Varriale (Flight & Orbital Mechanics)\
 Daniël Peeters (Mechanics of Materials)\
 M.I. Gerritsma (Physics)\
-J. Sodja (Vibrations)\ 
+J. Sodja (Vibrations)\
 Saullo Giovani Pereira Castro (Dynamics) \
-Calvin Rans (Structural Analysis & Design)\ 
-Joris Melkert\ 
+Calvin Rans (Structural Analysis & Design)\
+Joris Melkert\
 
 #### For the support, feedback and collaboration:
-The PRIME team 
+The [https://colab.research.google.com/github/PRIME-TU-Delft/MissionLAIKA/blob/main/PythonExercises/CaseStudy19/CS19.ipynb](PRIME) team
+
 The Blended Learning team, especially:
 Marvin Soetanto, 
 Robbert Winkel, 
