@@ -11,7 +11,7 @@ parts:
     chapters:
     - file: MissionLAIKA/projectinfo.md
     - file: MissionLAIKA/overview-MissionLAIKA.md
-      sections:
+     sections:
       - file: MissionLAIKA/case01.md
       - file: MissionLAIKA/case02.md
       - file: MissionLAIKA/case03.md
